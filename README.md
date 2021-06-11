@@ -10,7 +10,7 @@ Adding line for rebasing ex., more changes from feature branch too.
 As stated above, the mainn purpose is to provide simple exapmle
 
 ## How to contribute
-please fork this repo and then issue pull req for review
+please fork this repo and then issue pull req for review cont more
 
 ## deployement
 this is a simple web project
