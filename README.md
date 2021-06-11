@@ -12,3 +12,6 @@ As stated above, the mainn purpose is to provide simple exapmle
 
 ## deployement
 this is a simple web project
+
+###copyright
+2021 Git.traning
