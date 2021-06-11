@@ -9,6 +9,7 @@ This is simple website project for showing how to use git and github together
 As stated above, the mainn purpose is to provide simple exapmle
 
 ## How to contribute
+please fork this repo and then issue pull req for review
 
 ## deployement
 this is a simple web project
